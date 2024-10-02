@@ -16,7 +16,7 @@
 N/A
 
 ## Usage
-The app can be accessed through a web browser. Once opened, you can four sections representing the four main topics covered in the prework. Each section contains an unordered list of notes covering things I learned about each of these topics. Additionally, there is a message promting the user to check the console for more information. To open the console open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console, the user can find a list of the topics we learned through prework. There is also a line that randomly suggests which topic to study first. Reloading the page changes this topic.
+The app can be accessed through a web browser. Once opened, you can see four sections representing the four main topics covered in the prework. Each section contains an unordered list of notes covering things I learned about each of these topics. Additionally, there is a message promting the user to check the console for more information. To open the console open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console, the user can find a list of the topics we learned through prework. There is also a line that randomly suggests which topic to study first. Reloading the page changes this topic.
 
 ## Credits
 N/A
